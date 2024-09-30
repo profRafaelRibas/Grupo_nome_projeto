@@ -8,3 +8,7 @@
 - Aluno 3
 - Aluno 4
 - Aluno 5
+
+### Professores:
+- João Paulo
+- Rafael
